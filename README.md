@@ -1,4 +1,4 @@
-
+ 
 ## First steps
 
 1. [Open a free trial account on Platform.sh](https://auth.api.platform.sh/register)
